@@ -1,4 +1,4 @@
-﻿# website-auditor — README
+﻿# website-auditor
 
 ## Comprehensive Multi-Dimensional Website Audit Skill
 
